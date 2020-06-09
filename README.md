@@ -34,3 +34,4 @@ The cascade classifier used for this experiment is the Face Detection Cascade Cl
 Finally, the CNN model along with the cascade classifier is trained for 30 epochs with two classes, one denoting the class of images with the face masks and the other without face masks. 
 
 ### Demo - 
+![](demo.gif)
